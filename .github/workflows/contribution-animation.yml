@@ -2,7 +2,7 @@ name: Generate Contribution Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once daily
+    - cron: "0 0 * * *"  # every day at midnight UTC
   workflow_dispatch:
 
 jobs:

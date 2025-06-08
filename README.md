@@ -4,7 +4,8 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/dhruv-soin)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-soin)
 
 ---
 
@@ -18,24 +19,25 @@
 
 ### 💼 Currently Working On
 
-- Building practical data analytics projects using real-world datasets  
-- Visualizing insights using Power BI and matplotlib  
-- Sharing work to help recruiters and peers see my journey!
+- Data analysis projects with real-world datasets  
+- Visualizing insights using Python and BI tools  
+- Growing my GitHub with clean, clear project work
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvsoin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvsoin&theme=tokyonight" />
 </p>
 
 ---
 
+### ⚡ Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution animation" src="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-contribution-grid-snake.svg" />
 </picture>

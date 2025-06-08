@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Dhruv Soin</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel</h3>
+<h3 align="center">Aspiring Data Scientist | Analytics & AI Enthusiast | Python • SQL • Power BI • Excel</h3>
 
 ---
 

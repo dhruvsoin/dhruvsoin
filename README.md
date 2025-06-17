@@ -31,13 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvsoin&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruvsoin&theme=tokyonight" />
 </p>
-
----
-
-#### ⚡ Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution animation" src="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-contribution-grid-snake.svg" />
-</picture>

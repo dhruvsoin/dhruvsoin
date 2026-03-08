@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:064e3b,50:065f46,100:10b981&height=200&section=header&text=Dhruv%20Soin&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Data%20%26%20AI%20Enthusiast%20%7C%20Continuous%20Learner%20%7C%20Builder&descAlignY=87&descSize=16&descColor=a7f3d0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:064e3b,50:065f46,100:10b981&amp;height=200&amp;section=header&amp;text=Dhruv%20Soin&amp;fontSize=62&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=70&amp;desc=Data%20%26%20AI%20Enthusiast%20%7C%20Continuous%20Learner%20%7C%20Builder&amp;descAlignY=87&amp;descSize=16&amp;descColor=a7f3d0" width="100%"/>
 </div>
 
 <br>
@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvsoin&label=Profile+Views&color=10b981&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=dhruvsoin&amp;label=Profile+Views&amp;color=10b981&amp;style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -165,20 +165,19 @@ $ cat values.txt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvsoin&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&ring_color=10b981" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsoin&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvsoin&amp;show_icons=true&amp;theme=vue-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=10b981&amp;icon_color=10b981&amp;text_color=c9d1d9&amp;ring_color=10b981" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsoin&amp;layout=compact&amp;theme=vue-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=10b981&amp;text_color=c9d1d9" height="170"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsoin&theme=vue-dark&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsoin&amp;theme=vue-dark&amp;hide_border=true&amp;background=0d1117&amp;ring=10b981&amp;fire=10b981&amp;currStreakLabel=10b981"/>
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<!-- Set up via GitHub Actions with Platane/snk@v3 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-snake-dark.svg"/>
@@ -203,12 +202,12 @@ $ cat values.txt
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:info.dhruvsoin@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:dhruvsoin@gmail.com">
+  <img src="https://img.shields.io/badge/dhruvsoin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:10b981,50:065f46,100:064e3b&height=120&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:10b981,50:065f46,100:064e3b&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
 </div>

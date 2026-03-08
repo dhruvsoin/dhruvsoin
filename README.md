@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:064e3b,50:065f46,100:10b981&amp;height=200&amp;section=header&amp;text=Dhruv%20Soin&amp;fontSize=62&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=70&amp;desc=Data%20%26%20AI%20Enthusiast%20%7C%20Continuous%20Learner%20%7C%20Builder&amp;descAlignY=87&amp;descSize=16&amp;descColor=a7f3d0" width="100%"/>
-</div>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a2e1a,50:064e3b,100:10b981&height=220&section=header&text=Dhruv%20Soin&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Data%20and%20AI%20Enthusiast%20%7C%20Continuous%20Learner%20%7C%20Builder&descAlignY=75&descSize=17&descColor=a7f3d0)
 
 <br>
 
@@ -11,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvsoin&amp;label=Profile+Views&amp;color=10b981&amp;style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=dhruvsoin&label=Profile+Views&color=10b981&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -24,7 +22,7 @@
   <a href="https://github.com/dhruvsoin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Bengaluru,_India-10b981?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bengaluru%2C_India-10b981?style=for-the-badge&logo=google-maps&logoColor=white"/>
 </p>
 
 ---
@@ -85,8 +83,10 @@ $ cat values.txt
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆_4×_Hackathon_Champion-Team_Lead-10b981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/National_%26_International_Stages-064e3b?style=for-the-badge"/>
+
+![](https://img.shields.io/badge/4%C3%97%20Hackathon%20Champion-Team%20Lead-10b981?style=for-the-badge)
+![](https://img.shields.io/badge/National%20%26%20International%20Stages-064e3b?style=for-the-badge)
+
 </div>
 
 ---
@@ -117,12 +117,12 @@ $ cat values.txt
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=10b981)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG_Pipelines-10b981?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-10b981?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-8E44AD?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -161,33 +161,6 @@ $ cat values.txt
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvsoin&amp;show_icons=true&amp;theme=vue-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=10b981&amp;icon_color=10b981&amp;text_color=c9d1d9&amp;ring_color=10b981" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsoin&amp;layout=compact&amp;theme=vue-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=10b981&amp;text_color=c9d1d9" height="170"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsoin&amp;theme=vue-dark&amp;hide_border=true&amp;background=0d1117&amp;ring=10b981&amp;fire=10b981&amp;currStreakLabel=10b981"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/dhruvsoin/dhruvsoin/output/github-snake.svg"/>
-  </picture>
-</div>
-
----
-
 <div align="center">
 
 *"Still learning. Always building. Never stopping."* 🌱
@@ -208,6 +181,6 @@ $ cat values.txt
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:10b981,50:065f46,100:064e3b&amp;height=120&amp;section=footer&amp;reversal=true" width="100%"/>
-</div>
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=shark&color=0:10b981,50:065f46,100:0a2e1a&height=100&section=footer)

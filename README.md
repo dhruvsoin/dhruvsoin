@@ -176,7 +176,7 @@ $ cat values.txt
 </a>
 &nbsp;
 <a href="mailto:info.dhruvsoin@gmail.com">
-  <img src="https://img.shields.io/badge/dhruvsoin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/info.dhruvsoin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
